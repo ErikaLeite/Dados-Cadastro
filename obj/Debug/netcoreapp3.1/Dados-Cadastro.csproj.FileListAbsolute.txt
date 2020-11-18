@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\bin\Debug\netcoreapp3.1\Dados-Cadastro.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\bin\Debug\netcoreapp3.1\Dados-Cadastro.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\bin\Debug\netcoreapp3.1\Dados-Cadastro.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\bin\Debug\netcoreapp3.1\Dados-Cadastro.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\bin\Debug\netcoreapp3.1\Dados-Cadastro.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\bin\Debug\netcoreapp3.1\Dados-Cadastro.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\obj\Debug\netcoreapp3.1\Dados-Cadastro.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\obj\Debug\netcoreapp3.1\Dados-Cadastro.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\obj\Debug\netcoreapp3.1\Dados-Cadastro.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\obj\Debug\netcoreapp3.1\Dados-Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\obj\Debug\netcoreapp3.1\Dados-Cadastro.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\obj\Debug\netcoreapp3.1\Dados-Cadastro.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Dados-Cadastro\obj\Debug\netcoreapp3.1\Dados-Cadastro.genruntimeconfig.cache
