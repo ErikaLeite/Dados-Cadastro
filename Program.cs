@@ -12,6 +12,7 @@ namespace Dados_Cadastro
             // 2. Idade: entre 0 e 150;
             // 3. Salário: maior que zero;
             // 4. Estado Civil: 's'(solteiro(a)), 'c'(casado(a)), 'v'(viuvo(a)), 'd'(divorciado(a));
+
             string undefined = null;
             Console.WriteLine("Olá!\nSeja Bem-vindo(a)");
             Console.WriteLine("  ");
@@ -32,17 +33,17 @@ namespace Dados_Cadastro
             //IDADE
             Console.Write("Qual a sua idade? ");
             int idade = int.Parse(Console.ReadLine());
-            while(idade > 150){
+            while(idade < 0 || idade > 150){
                 Console.Write("Insira uma idade válida: ");
                 idade = int.Parse(Console.ReadLine());
             }
 
             //SALÁRIO
             Console.Write("Qual o seu salário? ");
-            int salario = int.Parse(Console.ReadLine());
+            float salario = float.Parse(Console.ReadLine());
             while(salario < 1){
                 Console.Write("Insira um valor válido: ");
-                salario = int.Parse(Console.ReadLine());
+                salario = float.Parse(Console.ReadLine());
             }
 
             //ESTADO CIVIL
