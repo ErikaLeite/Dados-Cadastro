@@ -50,9 +50,13 @@ namespace Dados_Cadastro
             // string S, C, V, D;
             Console.WriteLine("Qual o seu Estado Civil?\nESCOLHA UMA DAS OPÇÕES ABAIXO: \nS - (Solteiro(a)\nC - (Casado(a)\nV - (Viúvo(a))\nD - (Divorciado(a)");
             string estado = Console.ReadLine();
-            // while(estado == S; C; V; D){
+
+            //forma apenas com while
+            while(estado != "S" && estado != "C" && estado != "V" && estado != "D"){
+                Console.WriteLine("Selecione um opção válida");
+                estado = Console.ReadLine();
                 
-            // }
+            }
             Console.Write("CADASTRO FINALIZADO");
         }
     }
